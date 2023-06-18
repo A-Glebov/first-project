@@ -20,7 +20,7 @@ bye
 
 ```mermaid
 graph LR;
-'hash'-->'info about commit';
+A-->B;
 ```
 
 
