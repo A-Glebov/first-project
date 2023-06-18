@@ -1,4 +1,4 @@
-#**My fitst project**
+#**My first project**
 ## *Yandexpracticum*
 ### learn markdown
 [Yandex](https://dzen.ru/?yredirect=true "DZEN")
@@ -22,5 +22,7 @@ bye
 graph LR;
 A-->B;
 ```
+#git log --oneline - получить сокращенный лог <br>
+
 
 
